@@ -1,9 +1,9 @@
 
 ## 目录
 
-| 模块     | 章节                                                         | 负责人(GitHub)                          | 联系QQ    |
-| -------- | ------------------------------------------------------------ | --------------------------------------- | --------- |
-| 机器学习 | [1. 线性回归(Liner Regression)](https://github.com/NLP-LOVE/ML-NLP/blob/master/Machine%20Learning/Liner%20Regression/1.Liner%20Regression.md) | [@mantchs](https://github.com/NLP-LOVE) | 448966528 |
+| 模块     | 章节                                                         | state                          |
+| -------- | ------------------------------------------------------------ | --------------------------------------- |
+| 机器学习 | [1. 线性回归(Liner Regression)](https://github.com/NLP-LOVE/ML-NLP/blob/master/Machine%20Learning/Liner%20Regression/1.Liner%20Regression.md) |  | 448966528 |
 | 机器学习 | [2. 逻辑回归(Logistics Regression)](https://github.com/NLP-LOVE/ML-NLP/blob/master/Machine%20Learning/2.Logistics%20Regression/2.Logistics%20Regression.md) | [@mantchs](https://github.com/NLP-LOVE) | 448966528 |
 | 机器学习 | [3. 决策树(Desision Tree)](https://github.com/NLP-LOVE/ML-NLP/blob/master/Machine%20Learning/3.Desition%20Tree/Desition%20Tree.md) | [@mantchs](https://github.com/NLP-LOVE) | 448966528 |
 | 机器学习 | [3.1 随机森林(Random Forest)](https://github.com/NLP-LOVE/ML-NLP/blob/master/Machine%20Learning/3.1%20Random%20Forest/3.1%20Random%20Forest.md) | [@mantchs](https://github.com/NLP-LOVE) | 448966528 |
@@ -37,11 +37,3 @@
 | NLP      | [16.7 Transformer模型](https://github.com/NLP-LOVE/ML-NLP/tree/master/NLP/16.7%20Transformer) | [@mantchs](https://github.com/NLP-LOVE) | 448966528 |
 | NLP      | [16.8 BERT模型](https://github.com/NLP-LOVE/ML-NLP/tree/master/NLP/16.8%20BERT) | [@mantchs](https://github.com/NLP-LOVE) | 448966528 |
 | NLP      | [16.9 XLNet模型](https://github.com/NLP-LOVE/ML-NLP/tree/master/NLP/16.9%20XLNet) | [@mantchs](https://github.com/NLP-LOVE) | 448966528 |
-| 项目     | [17. 推荐系统(Recommendation System)](https://github.com/NLP-LOVE/ML-NLP/tree/master/Project/17.%20Recommendation%20System) | [@mantchs](https://github.com/NLP-LOVE) | 448966528 |
-| 项目     | [18. 智能客服(Intelligent Customer Service)](https://github.com/NLP-LOVE/ML-NLP/tree/master/Project/18.%20Intelligent%20Customer%20Service) | [@mantchs](https://github.com/NLP-LOVE) | 448966528 |
-| 项目     | 19. 知识图谱(Knowledge Graph)                                |                                         |           |
-| 项目     | 20. 评论分析                                                 |                                         |           |
-
-
-
-> 欢迎大家加入！共同完善此项目！NLP学习QQ2群【207576902】<a target="_blank" href="http://shang.qq.com/wpa/qunwpa?idkey=1defd70810d9e67ca6ab3a30e1425a8a358139315a186dd2192d82a4c0ca1ce9"><img border="0" src="http://pub.idqqimg.com/wpa/images/group.png" alt="NLP学习群②" title="NLP学习群②"></a>
