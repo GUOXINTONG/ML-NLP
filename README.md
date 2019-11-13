@@ -18,21 +18,21 @@
 |  ML | [7.聚类(Clustering)](https://github.com/NLP-LOVE/ML-NLP/tree/master/Machine%20Learning/7.%20Clustering) | Nov.16 | 448966528 |
 |  ML | [8.ML特征工程和优化方法](https://github.com/NLP-LOVE/ML-NLP/tree/master/Machine%20Learning/8.%20ML%E7%89%B9%E5%BE%81%E5%B7%A5%E7%A8%8B%E5%92%8C%E4%BC%98%E5%8C%96%E6%96%B9%E6%B3%95) | Nov.16| 448966528 |
 |  ML | [9.K近邻算法(KNN)](https://github.com/NLP-LOVE/ML-NLP/tree/master/Machine%20Learning/9.%20KNN) |Nov.16| 448966528 |
-| DL | [10.神经网络(Neural Network)](https://github.com/NLP-LOVE/ML-NLP/tree/master/Deep%20Learning/10.%20Neural%20Network) || 448966528 |
-| DL | [11. 卷积神经网络(CNN)](https://github.com/NLP-LOVE/ML-NLP/tree/master/Deep%20Learning/11.%20CNN) | | 448966528 |
-| DL | [12. 循环神经网络(RNN)](https://github.com/NLP-LOVE/ML-NLP/tree/master/Deep%20Learning/12.%20RNN) || 448966528 |
-| DL | [12.1 门控循环单元(GRU)](https://github.com/NLP-LOVE/ML-NLP/tree/master/Deep%20Learning/12.1%20GRU) | | 448966528 |
-| DL | [12.2 长短期记忆(LSTM)](https://github.com/NLP-LOVE/ML-NLP/tree/master/Deep%20Learning/12.2%20LSTM) || 448966528 |
-| DL | [13.迁移学习(Transfer)](https://github.com/NLP-LOVE/ML-NLP/tree/master/Deep%20Learning/13.%20Transfer%20Learning) | | 448966528 |
-| DL | [14.强化学习(Reinforcement) & 多任务](https://github.com/NLP-LOVE/ML-NLP/tree/master/Deep%20Learning/14.%20Reinforcement%20Learning) | | 448966528 |
-| DL | [15. 深度学习的优化方法](https://github.com/NLP-LOVE/ML-NLP/tree/master/Deep%20Learning/15.%20DL%20Optimizer) | | 448966528 |
-| NLP      | [16. 自然语言处理(NLP)](https://github.com/NLP-LOVE/ML-NLP/tree/master/NLP/16.%20NLP) | | 448966528 |
-| NLP      | [16.1 词嵌入(Word2Vec)](https://github.com/NLP-LOVE/ML-NLP/tree/master/NLP/16.1%20Word%20Embedding) | | 448966528 |
-| NLP      | [16.2 子词嵌入(fastText)](https://github.com/NLP-LOVE/ML-NLP/tree/master/NLP/16.2%20fastText) || 448966528 |
-| NLP      | [16.3 全局向量词嵌入(GloVe)](https://github.com/NLP-LOVE/ML-NLP/tree/master/NLP/16.3%20GloVe) || 448966528 |
-| NLP      | [16.4 textRNN & textCNN](https://github.com/NLP-LOVE/ML-NLP/tree/master/NLP/16.4%20textRNN%20%26%20textCNN) | | 448966528 |
-| NLP      | [16.5 序列到序列模型(seq2seq)](https://github.com/NLP-LOVE/ML-NLP/tree/master/NLP/16.5%20seq2seq) || 448966528 |
-| NLP      | [16.6 注意力机制(Attention Mechanism)](https://github.com/NLP-LOVE/ML-NLP/tree/master/NLP/16.6%20Attention) | | 448966528 |
-| NLP      | [16.7 Transformer模型](https://github.com/NLP-LOVE/ML-NLP/tree/master/NLP/16.7%20Transformer) || 448966528 |
-| NLP      | [16.8 BERT模型](https://github.com/NLP-LOVE/ML-NLP/tree/master/NLP/16.8%20BERT) || 448966528 |
-| NLP      | [16.9 XLNet模型](https://github.com/NLP-LOVE/ML-NLP/tree/master/NLP/16.9%20XLNet) | | 448966528 |
+| DL | [10.神经网络(Neural Network)](https://github.com/NLP-LOVE/ML-NLP/tree/master/Deep%20Learning/10.%20Neural%20Network) |Nov.13| 448966528 |
+| DL | [11. 卷积神经网络(CNN)](https://github.com/NLP-LOVE/ML-NLP/tree/master/Deep%20Learning/11.%20CNN) | Nov.13 | 448966528 |
+| DL | [12. 循环神经网络(RNN)](https://github.com/NLP-LOVE/ML-NLP/tree/master/Deep%20Learning/12.%20RNN) |Nov.14| 448966528 |
+| DL | [12.1 门控循环单元(GRU)](https://github.com/NLP-LOVE/ML-NLP/tree/master/Deep%20Learning/12.1%20GRU) |Nov.14| 448966528 |
+| DL | [12.2 长短期记忆(LSTM)](https://github.com/NLP-LOVE/ML-NLP/tree/master/Deep%20Learning/12.2%20LSTM) |Nov.14| 448966528 |
+| DL | [13.迁移学习(Transfer)](https://github.com/NLP-LOVE/ML-NLP/tree/master/Deep%20Learning/13.%20Transfer%20Learning) | Nov.15| 448966528 |
+| DL | [14.强化学习(Reinforcement) & 多任务](https://github.com/NLP-LOVE/ML-NLP/tree/master/Deep%20Learning/14.%20Reinforcement%20Learning) | Nov.15 | 448966528 |
+| DL | [15. 深度学习的优化方法](https://github.com/NLP-LOVE/ML-NLP/tree/master/Deep%20Learning/15.%20DL%20Optimizer) |Nov.16 | 448966528 |
+| NLP      | [16. 自然语言处理(NLP)](https://github.com/NLP-LOVE/ML-NLP/tree/master/NLP/16.%20NLP) |Nov.13 | 448966528 |
+| NLP      | [16.1 词嵌入(Word2Vec)](https://github.com/NLP-LOVE/ML-NLP/tree/master/NLP/16.1%20Word%20Embedding) | Nov.13| 448966528 |
+| NLP      | [16.2 子词嵌入(fastText)](https://github.com/NLP-LOVE/ML-NLP/tree/master/NLP/16.2%20fastText) |Nov.14| 448966528 |
+| NLP      | [16.3 全局向量词嵌入(GloVe)](https://github.com/NLP-LOVE/ML-NLP/tree/master/NLP/16.3%20GloVe) |Nov.14| 448966528 |
+| NLP      | [16.4 textRNN & textCNN](https://github.com/NLP-LOVE/ML-NLP/tree/master/NLP/16.4%20textRNN%20%26%20textCNN) | Nov.15| 448966528 |
+| NLP      | [16.5 序列到序列模型(seq2seq)](https://github.com/NLP-LOVE/ML-NLP/tree/master/NLP/16.5%20seq2seq) |Nov.15| 448966528 |
+| NLP      | [16.6 注意力机制(Attention Mechanism)](https://github.com/NLP-LOVE/ML-NLP/tree/master/NLP/16.6%20Attention) |Nov.16 | 448966528 |
+| NLP      | [16.7 Transformer模型](https://github.com/NLP-LOVE/ML-NLP/tree/master/NLP/16.7%20Transformer) |Nov.16| 448966528 |
+| NLP      | [16.8 BERT模型](https://github.com/NLP-LOVE/ML-NLP/tree/master/NLP/16.8%20BERT) |Nov.18| 448966528 |
+| NLP      | [16.9 XLNet模型](https://github.com/NLP-LOVE/ML-NLP/tree/master/NLP/16.9%20XLNet) | Nov.18| 448966528 |
