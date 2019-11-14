@@ -18,8 +18,8 @@
 |  ML | [7.聚类(Clustering)](https://github.com/NLP-LOVE/ML-NLP/tree/master/Machine%20Learning/7.%20Clustering) | Nov.16 |  |
 |  ML | [8.ML特征工程和优化方法](https://github.com/NLP-LOVE/ML-NLP/tree/master/Machine%20Learning/8.%20ML%E7%89%B9%E5%BE%81%E5%B7%A5%E7%A8%8B%E5%92%8C%E4%BC%98%E5%8C%96%E6%96%B9%E6%B3%95) | Nov.16|  |
 |  ML | [9.K近邻算法(KNN)](https://github.com/NLP-LOVE/ML-NLP/tree/master/Machine%20Learning/9.%20KNN) |Nov.16|  |
-| DL | [10.神经网络(Neural Network)](https://github.com/NLP-LOVE/ML-NLP/tree/master/Deep%20Learning/10.%20Neural%20Network) |Nov.13|  |
-| DL | [11. 卷积神经网络(CNN)](https://github.com/NLP-LOVE/ML-NLP/tree/master/Deep%20Learning/11.%20CNN) | Nov.13 |  |
+| DL | [10.神经网络(Neural Network)](https://github.com/NLP-LOVE/ML-NLP/tree/master/Deep%20Learning/10.%20Neural%20Network) |Nov.13| ✅ |
+| DL | [11. 卷积神经网络(CNN)](https://github.com/NLP-LOVE/ML-NLP/tree/master/Deep%20Learning/11.%20CNN) | Nov.13 | ⚠️ |
 | DL | [12. 循环神经网络(RNN)](https://github.com/NLP-LOVE/ML-NLP/tree/master/Deep%20Learning/12.%20RNN) |Nov.14|  |
 | DL | [12.1 门控循环单元(GRU)](https://github.com/NLP-LOVE/ML-NLP/tree/master/Deep%20Learning/12.1%20GRU) |Nov.14|  |
 | DL | [12.2 长短期记忆(LSTM)](https://github.com/NLP-LOVE/ML-NLP/tree/master/Deep%20Learning/12.2%20LSTM) |Nov.14|  |
