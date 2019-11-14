@@ -3,9 +3,9 @@
 
 | 模块     | 章节                                                         | plan                          |      state    |
 | -------- | ------------------------------------------------------------ | --------------------------------------- |-----------|
-| ML | [1. 线性回归(Liner Regression)](https://github.com/NLP-LOVE/ML-NLP/blob/master/Machine%20Learning/Liner%20Regression/1.Liner%20Regression.md) | Nov.13 |  |
-|  ML | [2. 逻辑回归(Logistics Regression)](https://github.com/NLP-LOVE/ML-NLP/blob/master/Machine%20Learning/2.Logistics%20Regression/2.Logistics%20Regression.md) | Nov.13 |  |
-|  ML | [3. 决策树(Desision Tree)](https://github.com/NLP-LOVE/ML-NLP/blob/master/Machine%20Learning/3.Desition%20Tree/Desition%20Tree.md) |Nov.13|  |
+| ML | [1. 线性回归(Liner Regression)](https://github.com/NLP-LOVE/ML-NLP/blob/master/Machine%20Learning/Liner%20Regression/1.Liner%20Regression.md) | Nov.13 | ✅ |
+|  ML | [2. 逻辑回归(Logistics Regression)](https://github.com/NLP-LOVE/ML-NLP/blob/master/Machine%20Learning/2.Logistics%20Regression/2.Logistics%20Regression.md) | Nov.13 | ✅ |
+|  ML | [3. 决策树(Desision Tree)](https://github.com/NLP-LOVE/ML-NLP/blob/master/Machine%20Learning/3.Desition%20Tree/Desition%20Tree.md) |Nov.13| ✅ |
 |  ML | [3.1 随机森林(Random Forest)](https://github.com/NLP-LOVE/ML-NLP/blob/master/Machine%20Learning/3.1%20Random%20Forest/3.1%20Random%20Forest.md) | Nov.14 |
 |  ML | [3.2 梯度提升决策树(GBDT)](https://github.com/NLP-LOVE/ML-NLP/blob/master/Machine%20Learning/3.2%20GBDT/3.2%20GBDT.md) |Nov.14 |  |
 |  ML | [3.3 XGBoost](https://github.com/NLP-LOVE/ML-NLP/blob/master/Machine%20Learning/3.3%20XGBoost/3.3%20XGBoost.md) |Nov.14 |  |
