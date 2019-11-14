@@ -26,8 +26,8 @@
 | DL | [13.迁移学习(Transfer)](https://github.com/NLP-LOVE/ML-NLP/tree/master/Deep%20Learning/13.%20Transfer%20Learning) | Nov.15|  |
 | DL | [14.强化学习(Reinforcement) & 多任务](https://github.com/NLP-LOVE/ML-NLP/tree/master/Deep%20Learning/14.%20Reinforcement%20Learning) | Nov.15 |  |
 | DL | [15. 深度学习的优化方法](https://github.com/NLP-LOVE/ML-NLP/tree/master/Deep%20Learning/15.%20DL%20Optimizer) |Nov.16 |  |
-| NLP      | [16. 自然语言处理(NLP)](https://github.com/NLP-LOVE/ML-NLP/tree/master/NLP/16.%20NLP) |Nov.13 |  |
-| NLP      | [16.1 词嵌入(Word2Vec)](https://github.com/NLP-LOVE/ML-NLP/tree/master/NLP/16.1%20Word%20Embedding) | Nov.13|  |
+| NLP      | [16. 自然语言处理(NLP)](https://github.com/NLP-LOVE/ML-NLP/tree/master/NLP/16.%20NLP) |Nov.13 | ✅ |
+| NLP      | [16.1 词嵌入(Word2Vec)](https://github.com/NLP-LOVE/ML-NLP/tree/master/NLP/16.1%20Word%20Embedding) | Nov.13| ✅ |
 | NLP      | [16.2 子词嵌入(fastText)](https://github.com/NLP-LOVE/ML-NLP/tree/master/NLP/16.2%20fastText) |Nov.14|  |
 | NLP      | [16.3 全局向量词嵌入(GloVe)](https://github.com/NLP-LOVE/ML-NLP/tree/master/NLP/16.3%20GloVe) |Nov.14|  |
 | NLP      | [16.4 textRNN & textCNN](https://github.com/NLP-LOVE/ML-NLP/tree/master/NLP/16.4%20textRNN%20%26%20textCNN) | Nov.15|  |
