@@ -6,11 +6,11 @@
 | ML | [1. 线性回归(Liner Regression)](https://github.com/NLP-LOVE/ML-NLP/blob/master/Machine%20Learning/Liner%20Regression/1.Liner%20Regression.md) | Nov.13 | ✅ |
 |  ML | [2. 逻辑回归(Logistics Regression)](https://github.com/NLP-LOVE/ML-NLP/blob/master/Machine%20Learning/2.Logistics%20Regression/2.Logistics%20Regression.md) | Nov.13 | ✅ |
 |  ML | [3. 决策树(Desision Tree)](https://github.com/NLP-LOVE/ML-NLP/blob/master/Machine%20Learning/3.Desition%20Tree/Desition%20Tree.md) |Nov.13| ✅ |
-|  ML | [3.1 随机森林(Random Forest)](https://github.com/NLP-LOVE/ML-NLP/blob/master/Machine%20Learning/3.1%20Random%20Forest/3.1%20Random%20Forest.md) | Nov.14 |
-|  ML | [3.2 梯度提升决策树(GBDT)](https://github.com/NLP-LOVE/ML-NLP/blob/master/Machine%20Learning/3.2%20GBDT/3.2%20GBDT.md) |Nov.14 |  |
-|  ML | [3.3 XGBoost](https://github.com/NLP-LOVE/ML-NLP/blob/master/Machine%20Learning/3.3%20XGBoost/3.3%20XGBoost.md) |Nov.14 |  |
-|  ML | [3.4 LightGBM](https://github.com/NLP-LOVE/ML-NLP/blob/master/Machine%20Learning/3.4%20LightGBM/3.4%20LightGBM.md) |Nov.14|  |
-|  ML | [4. 支持向量机(SVM)](https://github.com/NLP-LOVE/ML-NLP/blob/master/Machine%20Learning/4.%20SVM/4.%20SVM.md) |Nov.15 |  ||                                         |           |
+|  ML | [3.1 随机森林(Random Forest)](https://github.com/NLP-LOVE/ML-NLP/blob/master/Machine%20Learning/3.1%20Random%20Forest/3.1%20Random%20Forest.md) | Nov.14 |✅｜
+|  ML | [3.2 梯度提升决策树(GBDT)](https://github.com/NLP-LOVE/ML-NLP/blob/master/Machine%20Learning/3.2%20GBDT/3.2%20GBDT.md) |Nov.14 | ✅ |
+|  ML | [3.3 XGBoost](https://github.com/NLP-LOVE/ML-NLP/blob/master/Machine%20Learning/3.3%20XGBoost/3.3%20XGBoost.md) |Nov.14 | ✅ |
+|  ML | [3.4 LightGBM](https://github.com/NLP-LOVE/ML-NLP/blob/master/Machine%20Learning/3.4%20LightGBM/3.4%20LightGBM.md) |Nov.14| ✅ |
+|  ML | [4. 支持向量机(SVM)](https://github.com/NLP-LOVE/ML-NLP/blob/master/Machine%20Learning/4.%20SVM/4.%20SVM.md) |Nov.14 |  |✅|
 |  ML | [5.1 贝叶斯网络(Bayesian Network)](https://github.com/NLP-LOVE/ML-NLP/blob/master/Machine%20Learning/5.1%20Bayes%20Network/5.1%20Bayes%20Network.md) |Nov.15|  |
 |  ML | [5.2 马尔科夫(Markov)](https://github.com/NLP-LOVE/ML-NLP/blob/master/Machine%20Learning/5.2%20Markov/5.2%20Markov.md) | Nov.15|  |
 |  ML | [5.3 主题模型(Topic Model)](https://github.com/NLP-LOVE/ML-NLP/tree/master/Machine%20Learning/5.3%20Topic%20Model) | Nov.15 |  |
