@@ -23,9 +23,9 @@
 | DL | [12. 循环神经网络(RNN)](https://github.com/NLP-LOVE/ML-NLP/tree/master/Deep%20Learning/12.%20RNN) |Nov.14| ✅ |
 | DL | [12.1 门控循环单元(GRU)](https://github.com/NLP-LOVE/ML-NLP/tree/master/Deep%20Learning/12.1%20GRU) |Nov.15| ✅ |
 | DL | [12.2 长短期记忆(LSTM)](https://github.com/NLP-LOVE/ML-NLP/tree/master/Deep%20Learning/12.2%20LSTM) |Nov.15|  ✅ |
-| DL | [13.迁移学习(Transfer)](https://github.com/NLP-LOVE/ML-NLP/tree/master/Deep%20Learning/13.%20Transfer%20Learning) | Nov.16|  |
-| DL | [14.强化学习(Reinforcement) & 多任务](https://github.com/NLP-LOVE/ML-NLP/tree/master/Deep%20Learning/14.%20Reinforcement%20Learning) | Nov.17 |  |
-| DL | [15. 深度学习的优化方法](https://github.com/NLP-LOVE/ML-NLP/tree/master/Deep%20Learning/15.%20DL%20Optimizer) |Nov.17 |  |
+| DL | [13.迁移学习(Transfer)](https://github.com/NLP-LOVE/ML-NLP/tree/master/Deep%20Learning/13.%20Transfer%20Learning) | Nov.16| ✅ |
+| DL | [14.强化学习(Reinforcement) & 多任务](https://github.com/NLP-LOVE/ML-NLP/tree/master/Deep%20Learning/14.%20Reinforcement%20Learning) | Nov.17 | ✅ |
+| DL | [15. 深度学习的优化方法](https://github.com/NLP-LOVE/ML-NLP/tree/master/Deep%20Learning/15.%20DL%20Optimizer) |Nov.17 | ✅ |
 | NLP      | [16. 自然语言处理(NLP)](https://github.com/NLP-LOVE/ML-NLP/tree/master/NLP/16.%20NLP) |Nov.13 | ✅ |
 | NLP      | [16.1 词嵌入(Word2Vec)](https://github.com/NLP-LOVE/ML-NLP/tree/master/NLP/16.1%20Word%20Embedding) | Nov.13| ✅ |
 | NLP      | [16.2 子词嵌入(fastText)](https://github.com/NLP-LOVE/ML-NLP/tree/master/NLP/16.2%20fastText) |Nov.14| ✅ |
