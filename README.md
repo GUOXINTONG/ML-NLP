@@ -35,4 +35,4 @@
 | NLP      | [16.6 注意力机制(Attention Mechanism)](https://github.com/NLP-LOVE/ML-NLP/tree/master/NLP/16.6%20Attention) |Nov.17 | ✅ |
 | NLP      | [16.7 Transformer模型](https://github.com/NLP-LOVE/ML-NLP/tree/master/NLP/16.7%20Transformer) |Nov.17| ✅ |
 | NLP      | [16.8 BERT模型](https://github.com/NLP-LOVE/ML-NLP/tree/master/NLP/16.8%20BERT) |Nov.17| ✅ |
-| NLP      | [16.9 XLNet模型](https://github.com/NLP-LOVE/ML-NLP/tree/master/NLP/16.9%20XLNet) | Nov.18|  |
+| NLP      | [16.9 XLNet模型](https://github.com/NLP-LOVE/ML-NLP/tree/master/NLP/16.9%20XLNet) | Nov.18| ✅ |
